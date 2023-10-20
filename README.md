@@ -20,3 +20,10 @@ const Arthur = {
   Studying: [Python],
 }
 ```
+
+<details><summary><h2>👾 Projetos</h2></summary>
+
+  - [MoodMonitor](https://github.com/ArthurPNeves/MoodMonitor) - Aplicativo em Flutter de Diário de Sentimentos
+  - [Ajudinha](https://github.com/ArthurPNeves/Ajudinha-TIAW-master.git) - Site com objetivo a ajudar idosos com tecnologia
+  - [Last-Stand](https://github.com/ArthurPNeves/Last-Stand.git) - Jogo Shot'em up
+  
