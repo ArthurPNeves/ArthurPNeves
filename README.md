@@ -26,4 +26,13 @@ const Arthur = {
   - [MoodMonitor](https://github.com/ArthurPNeves/MoodMonitor) - Aplicativo em Flutter de Diário de Sentimentos
   - [Ajudinha](https://github.com/ArthurPNeves/Ajudinha-TIAW-master.git) - Site com objetivo a ajudar idosos com tecnologia
   - [Last-Stand](https://github.com/ArthurPNeves/Last-Stand.git) - Jogo Shot'em up
+</details>
+  <h1></h1>
+<details><summary><h2>📝 Estudos</h2></summary>
   
+
+  - [Estudos Faculdade](https://github.com/ArthurPNeves/Estudos)
+ 
+
+  
+</details>
