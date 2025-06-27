@@ -1,4 +1,4 @@
-<h2> Hi, I'm Arthur Patrocínio <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Arthur Patrocínio</h2>
 
 <p><em>📖 Currently studying Computer Science at <a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Ciencia-da-Computacao.aspx">Puc Minas university</a> <em> <p>
   
