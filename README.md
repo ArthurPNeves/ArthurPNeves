@@ -20,25 +20,27 @@ const Arthur = {
 }
 ```
 
-<details><summary><h2>👾 Projetos</h2></summary>
+<details>
+  <summary><h2>👾 Projets</h2></summary>
+
+  <details>
+    <summary><h3>🏫 Puc Minas</h3></summary>
 
   - [MoodMonitor](https://github.com/ArthurPNeves/MoodMonitor) - Aplicativo em Flutter de Diário de Sentimentos
   - [Ajudinha](https://github.com/ArthurPNeves/Ajudinha-TIAW-master.git) - Site com objetivo a ajudar idosos com tecnologia
   - [Last-Stand](https://github.com/ArthurPNeves/Last-Stand.git) - Jogo Shot'em up
-</details>
 
-<details><summary><h2>🏫 Puc Minas</h2></summary>
+  </details>
 
-  - [MoodMonitor](https://github.com/ArthurPNeves/MoodMonitor) - Aplicativo em Flutter de Diário de Sentimentos
-  - [Ajudinha](https://github.com/ArthurPNeves/Ajudinha-TIAW-master.git) - Site com objetivo a ajudar idosos com tecnologia
-  - [Last-Stand](https://github.com/ArthurPNeves/Last-Stand.git) - Jogo Shot'em up
-</details>
-
-<details><summary><h2>🎓 Epitech</h2></summary>
+  <details>
+    <summary><h3>🎓 Epitech</h3></summary>
 
   - [Tekspice-Epitech](https://github.com/ArthurPNeves/Tekspice-Epitech)
   - [Arcade-Epitech](https://github.com/ArthurPNeves/Arcade-Epitech)
   - [Raytracer-Epitech](https://github.com/ArthurPNeves/Raytracer-Epitech)
+
+  </details>
+
 </details>
 
 <h1></h1>
