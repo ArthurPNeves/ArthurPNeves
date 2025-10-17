@@ -16,7 +16,7 @@
 const Arthur = {
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Java, C, C++, Python],
-  tools: [Node, Bootstrap],
+  tools: [Node, Bootstrap, jQuery],
 }
 ```
 
@@ -26,10 +26,13 @@ const Arthur = {
   <details>
     <summary><h3>🏫 Puc Minas</h3></summary>
 
-  - [MoodMonitor](https://github.com/ArthurPNeves/MoodMonitor) - Aplicativo em Flutter de Diário de Sentimentos
-  - [Ajudinha](https://github.com/ArthurPNeves/Ajudinha-TIAW-master.git) - Site com objetivo a ajudar idosos com tecnologia
-  - [Last-Stand](https://github.com/ArthurPNeves/Last-Stand.git) - Jogo Shot'em up
-
+  - [MoodMonitor](https://github.com/ArthurPNeves/MoodMonitor) - Flutter app emotions dairy
+  - [Ajudinha](https://github.com/ArthurPNeves/Ajudinha-TIAW-master.git) - Website designed to help elderly people use technology.
+  - [Last-Stand](https://github.com/ArthurPNeves/Last-Stand.git) - Game Shot'em (vampire survivor like) 
+  - [MiniPaint](https://github.com/ArthurPNeves/miniPaint) - MiniPaint { back = c++; front = js;}
+  - [OnePieceFinder2000](https://github.com/ArthurPNeves/TI6OnePieceFinder2000) - Website with a Python backend designed to locate the exact frame from a show
+  - [MediceBox](https://github.com/ArthurPNeves/projeto_caixa_medicamentos) - Flutter app for configuring an Arduino-based medicine box to assist elderly users
+  
   </details>
 
   <details>
