@@ -32,6 +32,8 @@ const Arthur = {
   - [MiniPaint](https://github.com/ArthurPNeves/miniPaint) - MiniPaint { back = c++; front = js;}
   - [OnePieceFinder2000](https://github.com/ArthurPNeves/TI6OnePieceFinder2000) - Website with a Python backend designed to locate the exact frame from a show
   - [MediceBox](https://github.com/ArthurPNeves/projeto_caixa_medicamentos) - Flutter app for configuring an Arduino-based medicine box to assist elderly users
+  - [Liver-deisease-detection](https://github.com/ArthurPNeves/xgboost-liver-disease-detection) - Developed an intelligent system using XGBoost for liver disease detection.
+
   
   </details>
 
